@@ -8,7 +8,7 @@ Self-taught frontend developer. Always passionate about minimal yet functional w
 
 * 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.live)
 * ✉️  You can contact me at [ariyoadeoyepaul@gmail.com](mailto:ariyoadeoyepaul@gmail.com )
-* 🚀  I'm currently working on [MY PORTFOLIO](http://tonnipaul.live)
+* 🚀  I'm currently working on [AN EXPENSE TRACKER APP]()
 * 🧠  I'm learning REACT JS
 * ⚡  Proficient in HTML, CSS, JAVASCRIPT
 

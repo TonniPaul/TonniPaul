@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PAUL OLUWATONI ARIYO-ADEOYE
 ===================================================================================================================================================
 
-Frontend developer
+Frontend Developer (React JS)
 ------------------
 
 Self-taught frontend developer. Always passionate about minimal yet functional web apps and learning new skills. Other than that I spend my free time listening to music

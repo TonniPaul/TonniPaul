@@ -6,7 +6,7 @@ Frontend Developer (React JS)
 
 Self-taught frontend developer. Always passionate about minimal yet functional web apps and learning new skills. Other than that I spend my free time listening to music
 
-* 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.live)
+* 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.com)
 * ✉️  You can contact me at [ariyoadeoyepaul@gmail.com](mailto:ariyoadeoyepaul@gmail.com )
 * 🚀  I'm currently working on [AN EXPENSE TRACKER APP]()
 * 🧠  I'm learning REACT JS

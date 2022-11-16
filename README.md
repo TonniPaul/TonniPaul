@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer (React JS)
 ------------------
 
-Self-taught frontend developer. Always passionate about minimal yet functional web apps and learning new skills. Other than that I spend my free time listening to music
+I am a frontend developer with particular interest in building amazing websites and user interfaces using html, css, javascript and React. I try to keep up with web security and best practices, and I am always looking to learn new things. I am presently a taking a software Engineering course at ALX
 
 * 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.com)
 * ✉️  You can contact me at [ariyoadeoyepaul@gmail.com](mailto:ariyoadeoyepaul@gmail.com )

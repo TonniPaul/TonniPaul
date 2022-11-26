@@ -8,7 +8,7 @@ I am a frontend developer with particular interest in building amazing websites 
 
 * 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.com)
 * ✉️  You can contact me at [ariyoadeoyepaul@gmail.com](mailto:ariyoadeoyepaul@gmail.com )
-* 🚀  I'm currently working on [AN EXPENSE TRACKER APP]()
+* 🚀  I'm currently working on [AN E-COMMERCE APP]()
 * 🧠  I'm learning REACT JS
 * ⚡  Proficient in HTML, CSS, JAVASCRIPT
 

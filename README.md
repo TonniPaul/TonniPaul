@@ -6,7 +6,7 @@ Frontend Developer (React JS)
 
 I am a frontend developer with particular interest in building amazing websites and user interfaces using html, css, javascript and React. I try to keep up with web security and best practices, and I am always looking to learn new things. I am presently a taking a software Engineering course at ALX
 
-* 🖥️  See my portfolio at [tonnipaul.live](http://tonnipaul.com)
+* 🖥️  See my portfolio at [tonnipaul.com](http://tonnipaul.com)
 * ✉️  You can contact me at [ariyoadeoyepaul@gmail.com](mailto:ariyoadeoyepaul@gmail.com )
 * 🚀  I'm currently working on [AN E-COMMERCE APP]()
 * 🧠  I'm learning REACT JS

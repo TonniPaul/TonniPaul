@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PAUL OLUWATONI ARIYO-ADEOYE
 ===================================================================================================================================================
 
-Frontend Developer (React JS / Next JS)
+Frontend Developer (React JS / Next JS / Svelte)
 ------------------
 
-I am a frontend developer with particular interest in building amazing websites and user interfaces using html, css, javascript and React. I try to keep up with web security and best practices, and I am always looking to learn new things. I am presently a taking a software Engineering course at ALX
+I am a frontend developer with a passion for crafting engaging and usercentric web applications. Proficient in modern web technologies (Next JS/React JS, Svelte, Typescript, JavaScript), I excel in creating visually appealing and responsive interfaces while maintaining a strong commitment to code quality, accessibility and collaborative teamwork. Committed to staying at the forefront of industry trends to deliver exceptional user experiences.
 
 * 🖥️  See my portfolio at [tonnipaul.com](http://tonnipaul.com)
 * ✉️  You can contact me at [info@tonnipaul.com](mailto:info@tonnipaul.com )

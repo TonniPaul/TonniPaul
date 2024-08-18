@@ -8,9 +8,9 @@ I am a frontend developer with a passion for crafting engaging and usercentric w
 
 * 🖥️  See my portfolio at [tonnipaul.com](http://tonnipaul.com)
 * ✉️  You can contact me at [info@tonnipaul.com](mailto:info@tonnipaul.com )
-* 🚀  I'm currently working on [ASSIGNMENT HElP]()
-* 🧠  I'm learning REACT JS
-* ⚡  Proficient in HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXT JS, STYLED-COMPONENTS.
+* 🚀  I'm currently creating Amazing Solutions at GATE Academy and VIVMEDS
+* 🧠  Currently learning Node JS
+* ⚡  Proficient in HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXT JS, SVELTE, TAILWIND CSS, STYLED-COMPONENTS.
 
 <a href="https://www.twitter.com/tonnipaul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tonnipaul?logo=twitter&style=for-the-badge&color=ef4444&labelColor=713f12"
